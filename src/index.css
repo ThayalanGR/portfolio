@@ -29,3 +29,17 @@
     font-size: 22px;
   }
 }
+
+
+.git:hover {
+  color: black !important;
+}
+.you:hover {
+  color: red !important;
+}
+.ins:hover {
+  color: #e1306c !important;
+}
+.fac:hover {
+  color: blue !important;
+}
